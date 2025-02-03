@@ -31,11 +31,7 @@ Este projeto tem como objetivo desenvolver um modelo de Machine Learning para cl
    ```
 3. Execute o treinamento do modelo:
    ```bash
-   python src/train.py
-   ```
-4. Faça previsões com um novo texto:
-   ```bash
-   python src/predict.py "Seu texto aqui"
+   python fakenews_classification.ipynb
    ```
 
 ## 📈 Métricas de Avaliação
