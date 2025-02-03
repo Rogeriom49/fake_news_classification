@@ -22,7 +22,7 @@ Este projeto tem como objetivo desenvolver um modelo de Machine Learning para cl
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/fake-news-classifier.git
+   git clone https://github.com/Rogeriom49/fake_news_classification.git
    cd fake-news-classifier
    ```
 2. Instale as dependências:
